@@ -3,3 +3,6 @@
 
 2. ¿Cuáles son las diferencias entre la ejecución del programa "hola Mundo" con el intérprete de Ruby y el intérprete interactivo?
 - Al ejecutar un fichero con el intérprete de Ruby, no se muestranls resultados de las ejecuciones de cada instrucción. En cambio, al ejecutar el fichero con el intérprete irb, se muestra lo que devuelve cada instrucción.
+
+3. ¿Cuáles son las dieferencias entee la ejecución del programa "hola Mundo" con el intérprete interactivo y con el pry?
+- PRY muestra la ejecución de cada instrucción y lo que devuelve. Ruby solo muestra lo que se eordena mostrar por pantalla (el text que escribimos al lado de la orden puts).
