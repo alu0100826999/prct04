@@ -1,0 +1,2 @@
+1. ¿Qué es RVM (Ruby Version MAnager)?
+- Es una herraminetas que nos permite instalar, gestionar y trabajar con múltiples versiones de Ruby.
